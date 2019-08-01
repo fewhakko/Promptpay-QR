@@ -107,7 +107,7 @@
 		  <img alt="qrcode" id="qrcode" style="max-width: 250px;margin-bottom: 10px;">
           <div id="amount-show" style="text-align: center;"></div>
           <div id="info-show" style="text-align: center; font-size: 70%; margin-top: 10px; color: #A6A6A6;">
-            สามารถสนับสนุนผู้สร้างได้ที่เบอร์ 0638428816
+            สามารถสนับสนุนผู้สร้างได้ที่เบอร์ 0638428816 วอเลท
           </div>
         </div>
         <div class="modal-footer">
