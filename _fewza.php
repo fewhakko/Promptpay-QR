@@ -18,7 +18,7 @@ if(isset($_GET['qr-code'])) {
 		$response["base64za"] = $PromptPayQR->generate();
 	}
     else {
-		$response["status"] = 'error';
+	$response["status"] = 'error';
         $response["message"] = 'ท่านได้กรอกเบอร์หรือเลขบัตรประชาชนไม่ถูกต้อง';
 	}
 }
